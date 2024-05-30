@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigurationReport>
+  <Source>
+    <Application>TurboValidate, Version=3.8.2203.1803, Culture=neutral, PublicKeyToken=null</Application>
+  </Source>
+  <DeviceDetails>
+    <ReportTime>29/08/2022 15:21:36</ReportTime>
+    <ProductName>Denali</ProductName>
+    <SerialNumber>KF39A00VA4</SerialNumber>
+    <DeviceID>864593055034655</DeviceID>
+    <FirmwareVersion>01.00.01.0001</FirmwareVersion>
+    <ProcessName>Configure</ProcessName>
+    <Job>LIVENETWORK</Job>
+  </DeviceDetails>
+  <Configuration>
+    <UnitStartTimeStamp>01/01/1970 07:00:00</UnitStartTimeStamp>
+    <UnitStopTimeStamp>01/01/1970 07:00:00</UnitStopTimeStamp>
+    <NumberofCustomerResets>1</NumberofCustomerResets>
+    <UserInformation></UserInformation>
+    <TimestampConfigurationTime>29/08/2022 15:21:36</TimestampConfigurationTime>
+    <ExternalPowerONResetCounter>0</ExternalPowerONResetCounter>
+    <EEPROMSize>0</EEPROMSize>
+    <Start-UpDelayTime>0</Start-UpDelayTime>
+    <TripLength>432000</TripLength>
+    <TemperatureMeasurementInterval>900</TemperatureMeasurementInterval>
+    <ControlByte0>0</ControlByte0>
+    <ControlByte1>0</ControlByte1>
+    <MinimumBatteryVoltage>90</MinimumBatteryVoltage>
+    <LowBatteryThreshold>30</LowBatteryThreshold>
+    <LowBatteryDeadband>5</LowBatteryDeadband>
+    <BatteryLevelSamplingInterval>900</BatteryLevelSamplingInterval>
+    <LightSensorSamplingInterval>30</LightSensorSamplingInterval>
+    <RunModeCheckInInterval>900</RunModeCheckInInterval>
+    <PhoneHomeCheckInInterval>28800</PhoneHomeCheckInInterval>
+    <CellScanMethod>0</CellScanMethod>
+    <SocketPrimaryIPAddress>10.1.0.30</SocketPrimaryIPAddress>
+    <SocketPrimaryPort>1883</SocketPrimaryPort>
+    <SocketTimeout>10</SocketTimeout>
+    <MaximumRetries>1</MaximumRetries>
+    <MinimumSignal>2</MinimumSignal>
+    <BeeperDuration>0</BeeperDuration>
+    <BeeperInterval>0</BeeperInterval>
+    <NTPIPAddress>10.0.250.4</NTPIPAddress>
+    <NTPPort>123</NTPPort>
+    <NTPSyncRetryInterval>7200</NTPSyncRetryInterval>
+    <SIMAPN>Sensiwatch.cxn</SIMAPN>
+    <SIMUsername>fwi</SIMUsername>
+    <SIMPassword>fwi</SIMPassword>
+    <SIMAuthenticationType>2</SIMAuthenticationType>
+    <MaxModemOnTime>150</MaxModemOnTime>
+    <ModemActivityTimeout>10</ModemActivityTimeout>
+    <ModemOFFTime>540</ModemOFFTime>
+    <ModemMinimumBatteryLevel>68</ModemMinimumBatteryLevel>
+    <CPUType>0</CPUType>
+    <HibernateCheckInInterval>10800</HibernateCheckInInterval>
+    <OutofCoverageWakeupInterval>36000</OutofCoverageWakeupInterval>
+    <OutofCoverageNoNetworkTime>36000</OutofCoverageNoNetworkTime>
+    <AlphaNumericSN>KF39A00VA4</AlphaNumericSN>
+    <ConfigurationFlag>0</ConfigurationFlag>
+    <HumidityMeasurementInterval>900</HumidityMeasurementInterval>
+    <SensorEnable1>3</SensorEnable1>
+    <SensorEnable2>0</SensorEnable2>
+  </Configuration>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+        <DigestValue>dIcTs3bEU/1bqIg0qluIFq3xzEVhKSpxNUt8z/OVdes=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>LPVg9if7qpkvCXTg7PdRLjSWY0RzPqS5Jt6E3M7WKzgWvVD5jO4bLDlKkGUSA/FPxkR1lko9odt7zdj5JjcBozfublmCGs08CPtKZvxRGaS8D6lEpIr0tu16oLGXwfNvk0SWDD5Nvg/OztgvRt2Sz/xhZcXTwb83A/dyjNC/NWo=</SignatureValue>
+  </Signature>
+</ConfigurationReport>

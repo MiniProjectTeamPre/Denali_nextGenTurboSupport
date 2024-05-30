@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConfigurationReport>
+  <Source>
+    <Application>TurboValidate, Version=3.8.2204.2802, Culture=neutral, PublicKeyToken=null</Application>
+  </Source>
+  <DeviceDetails>
+    <ReportTime>09/02/2022 09:57:12</ReportTime>
+    <ProductName>Denali</ProductName>
+    <SerialNumber>KJ29A00SZ0</SerialNumber>
+    <DeviceID>869738069636772</DeviceID>
+    <FirmwareVersion>01.00.01.0001</FirmwareVersion>
+    <ProcessName>Configure</ProcessName>
+    <Job>LIVENETWORK</Job>
+  </DeviceDetails>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" />
+        <DigestValue>Cfn6NYt3zdiiyoKjQd9p+DJwmhspXD1UEmQtIgHgw5Q=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>VkxPhD3YFQ7kaVvio90Gw933JoM0FP5rSUY/qplAts78zoaTAQpQQ9i9+u4zJgbK1bxMWk7YablBYSWcCkQnnegY/XiWVXSy/7lHRfYvG1iKiLfcNc6B5KjFkhGl9vR10gCnYkjFQQOXjdFfQ1QSlAk+uimZaiebgEbHdiaufQg=</SignatureValue>
+  </Signature>
+</ConfigurationReport>
